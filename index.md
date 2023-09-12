@@ -1,4 +1,4 @@
-# Utkarsh Majithia's first CS 193 Homework
+# Utkarsh Majithia's First CS 193 Homework
 
 ## Welcome to Utkarsh's Pages
 
