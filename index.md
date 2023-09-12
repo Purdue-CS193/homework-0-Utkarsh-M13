@@ -1,4 +1,6 @@
-# Welcome to Utkarsh's Pages
+# Utkarsh Majithia's first CS 193 Homework
+
+## Welcome to Utkarsh's Pages
 
 ## Please do not mention Jekyll
 
