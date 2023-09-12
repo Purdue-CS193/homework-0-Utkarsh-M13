@@ -1,7 +1,11 @@
-#Welcome to Utkarsh's Pages
+# Welcome to Utkarsh's Pages
 
-##Please do not mention Jekyll
+## Please do not mention Jekyll
 
+Things I like about CS193
+-It is led by students
+-It is an easy class
+-It does not have maths
 
 
 ```
